@@ -1,5 +1,8 @@
 
 # Nebula CLI 🚀
+<p align="center">
+  <img src="https://raw.githubusercontent.com/udit214/Nebula-cli/main/nebula-cli-logo.png" width="200"/>
+</p>
 
 **Nebula CLI** is a modern command-line tool designed for fast, efficient version control and project management.
 
