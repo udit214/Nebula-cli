@@ -1,19 +1,38 @@
-
-# Nebula CLI 🚀
 <p align="center">
-  <img src="https://raw.githubusercontent.com/udit214/Nebula-cli/main/nebula-cli-logo.png" width="200"/>
+  <img src="https://raw.githubusercontent.com/udit214/Nebula-cli/main/nebula-cli-logo.png" width="220"/>
 </p>
 
-**Nebula CLI** is a modern command-line tool designed for fast, efficient version control and project management.
+<h1 align="center">Nebula CLI 🌌</h1>
+
+<p align="center">
+  <b>Next-generation version control system built for simplicity, speed, and power.</b>
+</p>
+
+<p align="center">
+  <a href="https://pypi.org/project/nebula-cli/">
+    <img src="https://img.shields.io/pypi/v/nebula-cli?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/udit214/Nebula-cli">
+    <img src="https://img.shields.io/github/stars/udit214/Nebula-cli?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Features
+## ✨ What is Nebula?
 
-* Advanced revert system
-* Delta-based tracking
-* Lightweight and fast
-* Built for developers
+**Nebula CLI** is a modern version control system designed to simplify project management, collaboration, and deployment.
+
+---
+
+## 🚀 Features
+
+* ⚡ Update-based version control
+* 🔄 Snapshot & advanced revert system
+* 👥 Team collaboration
+* ☁️ Server-based sync
+* 🧩 Beginner-friendly workflow
+* 📦 Scales to large projects
 
 ---
 
@@ -25,7 +44,7 @@ pip install nebula-cli
 
 ---
 
-## 🚀 Usage
+## 🚀 Quick Start
 
 ```bash
 nb startproject [project name]
@@ -37,19 +56,23 @@ nb publish [update name]
 
 ---
 
-## 🌐 About
+## 👨‍💻 Authors
 
-Nebula is a next-generation developer tool focused on simplicity, performance, and control.
+* **Udit N. Khare**
+* **Rama Khare**
+* **Swara Verma**
+* **Apoorv Verma**
 
 ---
 
 ## 🔒 Note
 
 This is a public overview repository.
-The core source code is maintained privately.
+Core implementation is maintained privately.
 
 ---
 
 ## ⭐ Support
 
-If you like the project, consider starring ⭐
+If you like Nebula, give it a star ⭐
+
