@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/udit214/Nebula-cli/main/nebula-cli-logo.png" width="220"/>
+  <img src="https://raw.githubusercontent.com/udit214/Nebula-cli/main/Nebulanb_logo.png" width="220"/>
 </p>
 
 <h1 align="center">Nebula Nb 🌌</h1>
