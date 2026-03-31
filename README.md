@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/udit214/Nebula-cli/main/nebula-cli-logo.png" width="220"/>
 </p>
 
-<h1 align="center">Nebula CLI 🌌</h1>
+<h1 align="center">Nebula Nb 🌌</h1>
 
 <p align="center">
   <b>Next-generation version control system built for simplicity, speed, and power.</b>
@@ -19,9 +19,9 @@
 
 ---
 
-## ✨ What is Nebula?
+## ✨ What is Nebula Nb?
 
-**Nebula CLI** is a modern version control system designed to simplify project management, collaboration, and deployment.
+**Nebula-NB** is a modern version control system (VCS) CLI developed by **Udit N. Khare & Swara Verma**.
 
 ---
 
@@ -39,7 +39,7 @@
 ## 📦 Installation
 
 ```bash
-pip install nebula-cli
+pip install nebula-nb
 ```
 
 ---
